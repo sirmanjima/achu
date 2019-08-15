@@ -1,0 +1,217 @@
+
+
+Programms
+
+Home
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Web Page</title>		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">This is my web page</h1>
+		<hr/>
+		<h2 style="color:red; text-align:center; font-size:150%;">Its all About Me</h2>
+		<a href="file:///E:/MCA3/achu2.html">About me</a> &nbsp &nbsp
+		<a href="file:///E:/MCA3/achu3.html"> Qualification</a>&nbsp &nbsp
+		<a href="file:///E:/MCA3/achu4.html">Check my mapping</a><br/><br/>
+		<img src="E:\MCA3\download.png" alt="User Image"><br/>		
+	</body>
+</html>
+
+Personal Details
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Personal Details</title>		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;">About Me</h1>
+		<a href="file:///E:/MCA3/achu1.html">Home</a>
+		<hr/>
+		<p>
+		       <table style="width:50%">
+			  <tr>
+				    <th>Name</th>
+				    <td>Manjima Mohan</td> 				    
+			  </tr>
+			  <tr>
+				    <th>Address</th>
+				    <td>Noorumparayiil (H)</td> 				    
+			  </tr>
+			  <tr>
+				    <td> </td>
+				    <td>Ramapuram P.O</td> 
+			  </tr>
+			  <tr>
+				    <td> </td>
+				    <td>Ramapuram </td> 
+			  </tr>			  
+		</table>
+		</p>
+
+	</body>
+</html>
+
+Qualification
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Qualification</title>
+		<style>
+			tr{text-align: center;}
+		</style>
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">This is My Qualification</h1>
+		<a href="file:///E:/MCA3/achu1.html">Home</a> 		
+		<hr/>
+		<table style="width:50%">
+			  <tr>
+				    <th>Qualification</th>
+				    <th>Institution</th> 
+   				    <th>Year of Pass</th>
+  			  </tr>
+			  <tr>
+				    <td>SSLC</td>
+				    <td>S H G H S Ramapuram</td> 
+				    <td>2014</td>
+			  </tr>
+			  <tr>
+				    <td>+2</td>
+				    <td>St Augustines H S S Ramapuram</td> 
+				    <td>2016</td>
+			  </tr>
+			  <tr>
+				    <td>BCA</td>
+				    <td>Mar augusthinose College Ramapuram</td> 
+				    <td>2019</td>
+			  </tr>			  
+		</table>
+	</body>
+</html>
+
+Maping
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Maping</title>
+		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">This is my Maping</h1>
+		<a href="file:///E:/MCA3/achu1.html">Home</a>
+		<hr/>
+		<img src="mqdefault.jpg" alt="Squre and Circle" usemap="#workmap">
+		<img src="E:\MCA3\house.jpg" alt="house modal" usemap="#hsmap">
+		<map name="workmap">
+			  <area shape="rect" coords="180,36,254,111" alt="Squre" href="file:///E:/MCA3/achu6.html">
+			  
+			  <area shape="circle" coords="93,71,40" alt="circle" href="file:///E:/MCA3/achu5.html">
+		</map>
+		<map name="hsmap">
+			<area shape="poly"coords="113,13,17,85,36,94,33,184,191,182,190,92,209,82,177,62,176,24,147,25,147,40,113,13" alt="housemodl" href="file:///E:/MCA3/achu7.html">
+			
+			
+	     </map>
+	</body>
+</html>
+
+
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Web Page</title>
+		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">Circle</h1>
+		<hr/>
+		<a href="file:///E:/MCA3/achu1.html">Home</a>
+		<p>
+			A circle is a simple closed shape. 
+			It is the set of all points in a plane that are at a given distance from a given point,
+			 the centre; equivalently it is the curve traced out by a point that moves in a plane 
+			so that its distance from a given point is constant.
+		</p>
+
+	</body>
+</html>
+
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Web Page</title>
+		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">Squre</h1>
+		<hr/>
+		<a href="file:///E:/MCA3/achu1.html">Home</a>
+		<p>
+			In geometry, a square is a regular quadrilateral, 
+			which means that it has four equal sides and four equal angles. 
+			It can also be defined as a rectangle in which two adjacent sides have equal length. 
+			A square with vertices ABCD would be denoted ABCD
+		</p>
+
+	</body>
+</html>
+
+
+<!doctype html>
+<html>
+	<head>
+		<title>Its My Web Page</title>
+		
+	</head>
+	<body>
+		<h1 style="color:blue; text-align:center;font-size:300%;">House</h1>
+		<hr/>
+		<a href="file:///E:/MCA3/achu1.html">Home</a>
+		<p>
+            A house is a building that functions as a home.
+             They can range from simple dwellings such as rudimentary huts of nomadic
+             tribes and the improvised shacks in shantytowns to complex, fixed structures 
+             of wood, brick, concrete or other materials containing plumbing, ventilation,
+             and electrical systems.
+		</p>
+
+	</body>
+</html>
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
